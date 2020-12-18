@@ -183,11 +183,11 @@ void log(const char *msg) {
 }
 
 
-void logFloat(float f) {
-	char buf[100];
-	float2char(buf, f, 3);
-	log(buf);
-}
+//void logFloat(float f) {
+//	char buf[100];
+//	float2char(buf, f, 3);
+//	log(buf);
+//}
 
 void logInt(int i) {
 	char buf[100];

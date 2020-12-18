@@ -109,6 +109,15 @@ error in etutils.cpp, missing include <stdarg>
 
 fixed missing include <stdarg> in etutils.cpp
 
+- CALLIOPE HW
+- MICROBIT HW
+
+wrong call to float2char
+
+### v3.8.1
+
+fixed wrong call to float2char
+
 
 
 ## ~ hint

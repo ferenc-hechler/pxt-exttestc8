@@ -17,7 +17,7 @@ namespace exttestc {
     //% block="Json Brain|string %json"
     //% shim=exttestc::fcnnfromjson
     export function fcnnfromjson(json: string): void {
-    	basic.showString("v381:json")
+    	basic.showString("v382:json")
     }
 
     //% weight=70 
@@ -42,7 +42,7 @@ namespace exttestc {
     //% block="Predict|number[] %input|number[] %output"
     //% shim=exttestc::predict
     export function predict(input: number[], output: number[]): void {
-    	basic.showString("v381:predict")
+    	basic.showString("v382:predict")
     }
 
 

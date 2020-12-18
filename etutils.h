@@ -10,7 +10,7 @@
 //void throwError(const char *errMsg);
 
 void log(const char *msg);
-void logFloat(float f);
+//void logFloat(float f);
 void logInt(int i);
 
 
